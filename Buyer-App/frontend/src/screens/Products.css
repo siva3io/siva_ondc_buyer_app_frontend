@@ -1,0 +1,215 @@
+.pl-productCardbody {
+  height: inherit;
+  border-radius: 8px;
+  /* width: 92%; */
+  margin: 10px;
+  background-color: white;
+}
+
+.pl-productCard-img {
+  /* width: 100%; */
+  /* height: inherit; */
+  padding: 10px;
+  width: 280px;
+  height: 280px;
+}
+
+.pl-productCard-header {
+  font-family: "poppins";
+  font-weight: 500;
+  padding-left: 24%;
+}
+
+.pl-productCard-content {
+  padding: 10px;
+  font-size: 12px;
+}
+
+.store-pl-productCard-pricebody {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.pl-productCard-button1 {
+  background: #416bff !important;
+}
+
+.pl-BackgroundBody {
+  background: #f5f5f5;
+  margin-top: 76px;
+  overflow-x: clip;
+  /* height: 85vh; */
+  margin-bottom: 54px;
+}
+
+.pl-topbar {
+  margin: 10px;
+  padding: 10px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+  background: #f5f5f5;
+}
+
+.store-pl-pagination {
+  /* margin: 10px; */
+  padding: 10px;
+  background: white;
+  position: sticky;
+  bottom: 0%;
+}
+
+.pl-gridcards {
+  /* display: grid; */
+  /* grid-template-columns: auto auto auto auto; */
+  /* grid-template-columns: 25% 25% 25% 25%; */
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.pl-gridAllCards {
+  padding: 0px 30px 0px 0px;
+  width: 82%;
+}
+
+.pl-SearchText {
+  padding: 0px 20px 0px 20px;
+  font-weight: 400;
+  color: #001661;
+  font-size: 22px;
+}
+
+.store-pl-pagination {
+  align-items: center;
+}
+
+.pl-cart-allButton {
+  background: #416bff;
+  display: flex;
+  width: 100px;
+  justify-content: space-between;
+  padding: 3px;
+  border-radius: 7px;
+  color: white;
+}
+
+.pl-cart-plusButton {
+  background: #416bff;
+  color: white;
+  width: 20px;
+}
+
+.pl-cart-minusButton {
+  background: #416bff;
+  color: white;
+  width: 20px;
+}
+
+.pl-cart-plusButton:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.5),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.pl-cart-minusButton:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.5),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.pl-gridAllfilter {
+  display: flex;
+  width: 100%;
+}
+
+.pl-filterDiv {
+  background-color: #fff;
+  border-radius: 10px;
+  /* width: 16%; */
+  padding: 15px;
+  margin: 10px;
+  height: fit-content;
+  width: 270px;
+}
+
+.pl-filterContent {
+  height: 80%;
+  overflow: auto;
+  padding: 5px;
+  /* width: max-content; */
+}
+
+.pl-filterbutton {
+  background-color: #416bff;
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-size: 16px;
+  margin: 10px;
+  width: inherit;
+  border-radius: 35px;
+}
+
+.button1 {
+  background-color: white;
+  color: #416bff;
+  border: 1.5px solid #416bff;
+}
+
+.pl-filterHeader {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.pl-filterHeader2 {
+  font-size: 16px;
+  font-weight: 495;
+  padding: 5px 0px 5px 0px;
+}
+
+.pl-priceranger {
+  display: flex;
+}
+
+.pl-priceranger {
+  width: 100%;
+}
+
+.pl-priceranger1 {
+  width: 80%;
+}
+
+.pl-priceranger2 {
+  width: 20%;
+}
+
+.pl-checkbox {
+  padding: 5px;
+}
+
+.pl-checkboxtxt {
+  font-size: 20px !important;
+}
+
+.store-pagination-second {
+  display: flex;
+  justify-content: flex-end;
+}
+
+
+
+/*
+ Copyright (C) 2022 Eunimart Omnichannel Pvt Ltd. (www.eunimart.com)
+ All rights reserved.
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/

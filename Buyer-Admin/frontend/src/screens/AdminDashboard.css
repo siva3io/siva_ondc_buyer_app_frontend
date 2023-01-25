@@ -1,0 +1,214 @@
+.bap_ad-allbody {
+  background: #f5f5f5;
+}
+
+.bap_ad-gridbody {
+  display: flex;
+  padding: 15px;
+}
+
+.bap_ad-gridbody1 {
+  width: 80%;
+  /* margin:5px; */
+  height: 100%;
+}
+
+.bap_ad-gridbody2 {
+  width: 20%;
+  background: #ffffff;
+  /* margin:10px; */
+  padding: 15px;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.bap_ad-Orderdetails-seller {
+  height: 58%;
+  display: flex;
+}
+
+.bap_ad-Orderdetails {
+  background: #ffffff;
+  width: 80%;
+  /* margin:10px; */
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  padding: 15px;
+}
+
+.bap_ad-Orderdetails-Header {
+  color: #2e2e2e;
+  font-weight: 600;
+  font-size: 21px;
+  line-height: 44px;
+}
+
+.bap_ad-sellers {
+  background: #ffffff;
+  width: 20%;
+  margin: 0px 16px 0px 16px;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  padding: 15px;
+}
+
+.bap_ad-sellers-heading {
+  color: #2e2e2e;
+  font-weight: 600;
+  font-size: 21px;
+  line-height: 44px;
+}
+
+.bap_ad-pendingPayments {
+  background: #ffffff;
+  height: 40%;
+  margin: 16px 16px 0px 0px;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  padding: 15px;
+  min-height: 200px;
+  overflow-y: auto;
+}
+
+.bap_ad-pendingPayments-Header {
+  color: #2e2e2e;
+  font-weight: 600;
+  font-size: 21px;
+  line-height: 44px;
+  /* height:5%;
+    background: #FFFFFF;
+    position:fixed; */
+}
+
+.bap_ad-gridbody2-Heading {
+  color: #2e2e2e;
+  font-weight: 600;
+  font-size: 21px;
+  line-height: 44px;
+}
+
+.bap_ad-gridbody2-Heading1 {
+  font-weight: 500;
+  font-size: 19px;
+  padding: 10px 10px 10px 0px;
+}
+
+.bap_ad-gridbody2-ContentCard {
+  display: flex;
+  margin: 10px;
+}
+
+.bap_ad-gridbody2-ContentCard-heading {
+  font-weight: 500;
+  font-size: 14px;
+  color: #1c1b1f;
+  padding: 5px;
+}
+
+.bap_ad-gridbody2-ContentCard-dsc {
+  font-weight: 500;
+  font-size: 12px;
+  color: #1a4ee4;
+  padding-left: 5px;
+}
+
+.bap_ad-gridbody2-ContentCard-img {
+  margin-top: 10px;
+  padding: 10px;
+  color: #001661;
+}
+
+.bap_ad-gridbody2-ContentCard-time {
+  margin-top: 8%;
+  /* margin-right: 51px; */
+  color: #5d5d5d;
+  font-weight: 700;
+  font-size: 10px;
+  margin-left: 14%;
+}
+
+.bap_ad-Orderdetails-graphData {
+  display: flex;
+}
+
+.bap_ad-Orderdetails-graph {
+  width: 80%;
+}
+
+.bap_ad-Orderdetails-data {
+  width: 20%;
+  padding-top: 20px;
+}
+
+.bap_ad-dashboard_goals_tags {
+  height: 15px;
+  font-family: "Inter";
+  font-style: normal;
+  /* font-weight: 600; */
+  font-size: 10px !important;
+  line-height: 15px;
+  color: #2e2e2e;
+  margin: 13px;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.bap_ad-icon_dashboard_goals_icon1 {
+  /* margin: 5px; */
+  font-size: 15px;
+  /* color: #72AB3A; */
+}
+
+.bap_ad-icon_dashboard_goals_icon2 {
+  margin: 12px;
+  font-size: 15px;
+  color: #416bff;
+}
+
+.bap_ad-Orderdetails-dataNumb {
+  margin-left: 35px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.bap_ad-Orderdetails-daysReport {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bap_ad-Orderdetails-report {
+  color: #5f9de2;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.bap_ad-Orderdetails-days {
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.bap_pl-gridcards {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+/*
+ Copyright (C) 2022 Eunimart Omnichannel Pvt Ltd. (www.eunimart.com)
+ All rights reserved.
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/

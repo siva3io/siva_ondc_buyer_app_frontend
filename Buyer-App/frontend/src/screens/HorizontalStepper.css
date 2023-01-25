@@ -1,0 +1,112 @@
+.css-z7uhs0-MuiStepConnector-line {
+    display: block;
+    color: #2E3369;
+    border-color: #2E3369;
+    border: 2px;
+    border-top-style: solid;
+    border-top-width: 0px;
+    width: 20px;
+}
+
+
+.css-vnkopk-MuiStepLabel-iconContainer {
+    flex-shrink: 0;
+    display: flex;
+    padding-right: 0px;
+}
+
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root {
+    user-select: none;
+    width: 1em;
+    height: 1em;
+    fill: currentColor;
+    flex-shrink: 0;
+    font-size: 1.5rem;
+    display: block;
+    transition: color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    color: transparent;
+    border: 3px solid #2E3369;
+    border-radius: 30px;
+}
+
+.css-j5w0w9-MuiStepConnector-root {
+    flex: none;
+}
+
+.css-m5vj9m-MuiStepper-root {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 50px;
+    margin-left: -120px;
+}
+
+.store_review_question {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    /* identical to box height */
+    padding: 15px 0px 5px 0px;
+    letter-spacing: 0.15px;
+
+    /* Neutral / 900 */
+
+    color: #121417;
+}
+
+.store_review_checkbox_ans {
+    align-items: center;
+    padding: 2px 6px;
+    width: auto;
+    /* height: 34px; */
+    font-size: 12px;
+    /* Light/Action/Selected (8p)
+
+Reflects the action.selected variable from the theme object
+*/
+    background: rgba(0, 0, 0, 0.08);
+    border-radius: 16px;
+
+}
+
+.store_review_radio_ans {
+    /* font-weight: 500; */
+    font-size: 12px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.5px;
+
+    color: #FFFFFF;
+    align-items: center;
+    padding: 2px 8px;
+    gap: 4px;
+
+    height: 28px;
+
+    /* Primary Button/ Default */
+
+    background: #416BFF;
+    border-radius: 4px;
+}
+
+
+/*
+ Copyright (C) 2022 Eunimart Omnichannel Pvt Ltd. (www.eunimart.com)
+ All rights reserved.
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/

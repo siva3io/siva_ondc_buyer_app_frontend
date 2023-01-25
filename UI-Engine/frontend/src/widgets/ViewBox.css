@@ -1,0 +1,81 @@
+.locationDetailsMain {
+    background: #fff;
+    box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.1);
+    padding: 24px;
+    margin: 16px 0px;
+    font-family: Poppins;
+    border-radius: 8px;
+  }
+  .product-staticFormCardForm {
+    display: grid;
+    grid-gap: 8px 30px;
+    grid-template-columns: 49% 49%;
+    align-items: flex-start;
+    margin-top: 16px;
+  }
+  .staticFormCardTitle {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 28px;
+    letter-spacing: 0.15px;
+    color: #121417;
+    /* padding: 16px 0px; */
+  }
+  .ViewBoxBody { 
+    grid-gap: 8px 30px; 
+    align-items: center;
+    margin-top: 16px;
+  }
+
+  .date_and_time {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    /* gap: 15%; */
+}
+
+.wrapper_2_datetime {
+  /* width: 70%; */
+    /* width: 100%; */
+    width: 503px;
+}
+
+.wrapper_1_datetime {
+    /* gap: 186px; */
+    width: 40%;
+}
+
+.payment-details-wrapper{ margin-left:-15px; margin-right:-15px;}
+.payment-details-wrapper .left-details{ float:left; padding-left:15px; padding-right:15px;width: 47%; }
+.payment-details-wrapper .right-details{float: right; padding-left:15px; padding-right:15px;width: 47%;}
+.left-details .top-label{ background:#f7f7f7; padding:15px; border-radius:5px; font-size:18px; color:#000; margin:0 0 15px;}
+.left-details .top-label .price{ font-weight:600; float:right;color: #111183;}
+.left-details .use-credit{ font-size:14px;padding: 15px;}
+.left-details .use-credit input{ margin-left:20px;}
+.totail-box{ border:1px solid #0173ff; border-radius:5px; padding:15px;box-shadow: 0px 2px 1px -1px rgb(0 0 0 / 20%), 0px 1px 1px 0px rgb(0 0 0 / 14%), 0px 1px 3px 0px rgb(0 0 0 / 12%);}
+.sub-total{ margin:0 0 15px; font-size:14px}
+.sub-total .price{ float:right;}
+.right-form select, .right-form input { width:auto; display:inline-block;padding: 12px 12px 12px 16px;}
+.right-form input{ margin-left:10px}
+.right-form input:last-child{ float:right;}
+.total-footer{ padding-top:15px; margin-top:40px; border-top:1px solid #ccc; color:#0173ff; font-size:16px;}
+.total-footer .price{ float:right;}
+
+
+
+/*
+ Copyright (C) 2022 Eunimart Omnichannel Pvt Ltd. (www.eunimart.com)
+ All rights reserved.
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/

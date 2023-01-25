@@ -1,0 +1,106 @@
+.store-Faq-allbody {
+    background: #F5F5F5;
+
+
+}
+
+.store-Faq-Content {
+    display: flex;
+    /* padding: 15px; */
+
+
+}
+
+.store-Faq-ContentSidebar {
+    width: 15%;
+    background: rgb(255, 255, 255);
+    height: 750px;
+    border-radius: 8px;
+    margin-right: 16px;
+}
+
+.store-Faq-ContentMain {
+    width: 85%;
+    background: rgb(255, 255, 255);
+    border-radius: 8px;
+}
+
+.store-Faq-ContentMain_breadcrumbs {
+    padding: 10px 20px 10px 20px;
+
+}
+
+.store-Faq-ContentMain_Header {
+    color: #001661;
+    padding: 10px 20px 10px 20px;
+    font-weight: 600;
+    font-size: 23px;
+
+
+}
+
+.store-Faq-ContentMain_accordian {
+    padding: 10px 35px 10px 35px;
+    margin: 10px;
+
+}
+
+.store-Faq-acc {
+    display: flex
+}
+
+.store-Faq-acc_content {
+    text-align: justify;
+    width: 70%;
+}
+
+.store-Faq-Faq-acc_image {
+    width: 30%;
+    border: 1px solid gray;
+    margin-left: 15px;
+    border-radius: 10px;
+}
+
+.store-Faq-acc1 {
+    text-align: justify;
+    padding-bottom: 10px;
+}
+
+.store-Faq-ContentSidebar_header {
+    font-weight: 600;
+    font-size: 23px;
+    color: #001661;
+    margin: 20px
+}
+
+.store-Faq-ContentSidebar_names {
+    font-weight: 700;
+    font-size: 16px;
+    color: #2E2E2E;
+
+}
+
+.store-Faq-p {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.store-Faq-p:hover {
+    background-color: #F5F5F5;
+}
+
+
+/*
+ Copyright (C) 2022 Eunimart Omnichannel Pvt Ltd. (www.eunimart.com)
+ All rights reserved.
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/

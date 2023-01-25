@@ -1,0 +1,150 @@
+.buttons_wrapper {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+/* .order_button button {
+  background-color: #001661;
+} */
+
+/*  */
+.top_bar {
+  position: fixed !important;
+  width: 100%;
+  z-index: 1;
+  top: 0;
+}
+
+.top_bar_wrapper {
+  /* height: 60px; */
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 37px;
+  background-color: #f9f9f9;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+}
+
+.right_top_wrapper {
+  display: flex;
+  margin: auto 0;
+  text-align: right;
+  width: 100%;
+  justify-content: right;
+}
+
+.top_bottom {
+  margin: 0px 20px !important;
+}
+
+.content_box {
+  margin-top: 75px;
+  background-color: #f9f9f9;
+  display: flex;
+}
+
+tr {
+  height: 0px !important;
+}
+
+.left_content_box {
+  width: 45%;
+}
+
+.right_content_box {
+  width: 55%;
+  text-align: center;
+}
+
+table {
+  margin: 45px 0px;
+}
+
+.store_left_content_form {
+  background: white;
+  border-radius: 8px;
+  padding: 25px;
+  /* margin: 20px; */
+}
+
+table td:last-child {
+  text-align: right !important;
+}
+
+/* .left_top_wrapper {
+  display: flex;
+  column-gap: 20px;
+} */
+
+.right_content_box img {
+  width: 675px;
+}
+
+.wrapper {
+  background-color: #f0f0f0;
+  height: 100vh;
+  min-height: 100vh;
+  overflow: auto;
+}
+
+/* .top_bar {
+  background-color: #fff;
+  box-shadow: 0 0 10px 0 rgb(0 0 0 / 15%);
+  height: 60px;
+  position: relative;
+  z-index: 1;
+}
+
+.content_box {
+  height: calc(100vh - 60px);
+  overflow: auto;
+  display: flex;
+} */
+
+/* ------------------------------------- */
+.css-ojpwu7 {
+  display: inline-flex;
+  flex-direction: column;
+  position: inherit !important;
+  min-width: 0px;
+  padding: 0px;
+  border: 0px;
+  vertical-align: top;
+  margin: 0px;
+  width: 100%;
+}
+
+/* ------------------------------------------------------------------------------------- */
+
+.css-wlebl8 .MuiOutlinedInput-root.MuiInputBase-sizeSmall {
+  height: 50px !important;
+}
+
+/* .css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root {
+  height: 50px !important;
+}
+
+.css-yz9k0d-MuiInputBase-input {
+  margin-left: 10px !important;
+} */
+
+
+
+/*
+ Copyright (C) 2022 Eunimart Omnichannel Pvt Ltd. (www.eunimart.com)
+ All rights reserved.
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/

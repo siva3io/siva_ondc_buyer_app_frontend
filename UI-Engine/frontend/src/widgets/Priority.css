@@ -1,0 +1,81 @@
+.stars1 {
+  padding-top: 0px;
+  padding-left: 15px;
+  display: flex;
+}
+
+.checked-reviews {
+  color: #72ab3a;
+  font-size: 17px !important;
+  /* align-items:center; */
+  margin: 4px
+}
+
+.checked-reviews2 {
+  color: #72ab3a;
+  font-size: 17px !important;
+  /* align-items:center; */
+  margin: 4px
+}
+
+.checked-reviews3 {
+  color: #72ab3a;
+  font-size: 25px !important;
+  /* align-items:center; */
+  margin: 4px
+}
+
+.fa {
+  font-family: FontAwesome !important;
+  font-size: 20px !important;
+}
+
+.star2 {
+  padding-top: 30px;
+  padding-left: 20px;
+}
+
+.stars3 {
+  padding-top: 0px;
+  padding-left: 15px;
+  margin-top: -25px;
+}
+
+.chip1 {
+  border-radius: 7px !important;
+  margin-top: -4px !important;
+}
+
+span.padding-5 {
+  padding-left: 8px;
+}
+
+.total-stars {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.total-stars-badge {
+  background: #72ab3a;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 4px;
+  border-radius: 8px;
+}
+
+
+/*
+ Copyright (C) 2022 Eunimart Omnichannel Pvt Ltd. (www.eunimart.com)
+ All rights reserved.
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/

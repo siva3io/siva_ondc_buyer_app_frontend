@@ -1,0 +1,14 @@
+{
+    "name": "store",
+    "version": "1.0.0",
+    "scripts": {
+      "start:engine": "cd UI-Engine/frontend && npm i && npm run start",
+      "start:buyer": "cd Buyer-App/frontend && npm i && npm run start",
+      "start:admin": "cd BAP-Admin/frontend && npm i && npm run start"
+    },
+    "license": "",
+    "devDependencies": {},
+    "dependencies": {}
+  }
+
+

@@ -1,0 +1,206 @@
+.Orders_title {
+  padding: 10px 50px;
+  font-weight: 700;
+  font-size: 20px;
+  color: #606161;
+}
+
+.orders_card_order_number {
+  color: #606161;
+  font-family: Fira Sans, sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0;
+  text-align: left;
+}
+
+.order_status {
+  color: #606161;
+  font-size: 14px;
+  margin: 0;
+  text-align: left;
+}
+
+.order_date {
+  color: #a1a1a1;
+  font-size: 12px;
+  margin: 10px 0px;
+  text-align: left;
+}
+
+.order_status_current {
+  border: 0.5px solid;
+  padding: 5px 10px;
+  border-radius: 20px;
+  font-size: small;
+  margin: 5px 0px;
+}
+
+.store_product_title {
+  color: #606161;
+  font-size: 18px;
+  font-weight: 500;
+  margin: 0;
+  /* width: 90%; */
+}
+
+.order_quantity_count {
+  color: #a1a1a1;
+  font-size: 12px;
+  margin: 0;
+  text-align: left;
+}
+
+.order_price {
+  color: #606161;
+  font-size: 16px;
+  font-weight: 500;
+  margin: 0;
+}
+
+.status_button {
+  font-size: 12px;
+  line-height: normal;
+  margin: 0;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: #efefef;
+  border: 0.5px solid #ddd;
+  border-radius: 36px;
+  padding: 4px 8px;
+  max-width: 80px;
+  width: 15%;
+}
+
+.title_address {
+  color: #a1a1a1;
+  font-size: 14px;
+}
+
+.address_name {
+  color: #606161;
+  font-size: 16px;
+  font-weight: 500;
+  margin: 0;
+  text-align: left;
+}
+
+.address_lines {
+  color: #606161;
+  font-size: 14px;
+  margin: 0;
+  text-align: left;
+}
+
+.product_options {
+  align-items: center;
+  background-color: #fff;
+  border-radius: 36px;
+
+  display: flex;
+  font-size: 14px;
+  font-weight: 500;
+  height: 35px;
+  justify-content: center;
+  width: 100px;
+  cursor: pointer;
+}
+
+.cancel:hover {
+  color: white;
+  background-color: #1c75bc;
+}
+
+.cancel {
+  color: #1c75bc;
+  border: 1px solid #1c75bc;
+}
+
+.track:hover {
+  color: white;
+  background-color: #606161;
+}
+
+.track {
+  color: #606161;
+  border: 1px solid #606161;
+}
+
+.status:hover {
+  color: white;
+  background-color: #606161;
+}
+
+.status {
+  color: #606161;
+  border: 1px solid #606161;
+}
+
+/**
+ * ==============================================
+ * Dot Flashing
+ * ==============================================
+ */
+.dot-flashing {
+  position: relative;
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  background-color: #9880ff;
+  color: #9880ff;
+  animation: dot-flashing 1s infinite linear alternate;
+  animation-delay: 0.5s;
+}
+.dot-flashing::before,
+.dot-flashing::after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  top: 0;
+}
+.dot-flashing::before {
+  left: -15px;
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  background-color: #9880ff;
+  color: #9880ff;
+  animation: dot-flashing 1s infinite alternate;
+  animation-delay: 0s;
+}
+.dot-flashing::after {
+  left: 15px;
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  background-color: #9880ff;
+  color: #9880ff;
+  animation: dot-flashing 1s infinite alternate;
+  animation-delay: 1s;
+}
+
+@keyframes dot-flashing {
+  0% {
+    background-color: #9880ff;
+  }
+  50%,
+  100% {
+    background-color: rgba(152, 128, 255, 0.2);
+  }
+}
+
+
+/*
+ Copyright (C) 2022 Eunimart Omnichannel Pvt Ltd. (www.eunimart.com)
+ All rights reserved.
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/

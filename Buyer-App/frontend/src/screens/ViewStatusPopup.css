@@ -1,0 +1,59 @@
+.store_status_popup_title {
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 28px;
+    /* identical to box height */
+
+    letter-spacing: 0.15px;
+
+    /* Neutral / 900 */
+    padding: 16px;
+    color: #121417;
+}
+
+.store_status_popup_right_side {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.15px;
+    width: 50%;
+    /* Black/36 Black */
+
+    color: #5D5D5D;
+}
+
+.store_status_popup_left_side {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+    width: 50%;
+
+    /* Black/18 Black */
+
+    color: #2E2E2E;
+}
+
+.store_status_popup_description {
+    padding: 16px;
+}
+
+.store_status_description_each_div {
+    display: flex;
+}
+
+
+/*
+ Copyright (C) 2022 Eunimart Omnichannel Pvt Ltd. (www.eunimart.com)
+ All rights reserved.
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/

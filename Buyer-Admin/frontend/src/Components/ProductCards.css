@@ -1,0 +1,105 @@
+.bap_ad-productCardbody {
+    /* height: 72%; */
+    /* width: 92%; */
+    margin: 8px;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+
+.bap_ad-productCard-img {
+    width: 40%;
+    height: inherit;
+    padding: 5px;
+    border-radius: 50%;
+    align-self: self-start;
+}
+
+.bap_ad-productCard-header {
+    font-family: "poppins";
+    font-weight: 500;
+    padding-left: 24%;
+}
+
+.bap_ad-productCard-content {
+    padding: 10px;
+    font-size: 12px;
+}
+
+.bap_ad-productCard-pricebody {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+}
+
+.bap_ad-productCard-button1 {
+    background: #416BFF !important;
+}
+
+.bap_ad-productCard-price2 {
+    font-weight: 400;
+    font-size: 14px;
+    color: #5D5D5D;
+
+
+}
+
+.bap_ad-productCard-price1 {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.bap_ad-productCardbody-TopSection {
+    display: flex;
+    /* justify-content: space-evenly; */
+    margin: 12px
+}
+
+.bap_ad-productCard-Imgheading {
+    display: flex
+}
+
+.bap_ad-productCard-headingtext1 {
+    font-weight: 500;
+    font-size: 19px;
+    color: #001661;
+}
+
+.bap_ad-productCard-headingtext2 {
+    font-weight: 400;
+    font-size: 16px;
+    color: #8B8B8B;
+    margin-top: 6px;
+}
+
+.bap_ad-productCard-heading {
+    padding-top: 10px;
+}
+
+.bap_ad-sellercard-chipstatusall {
+    background: rgba(223, 227, 247, 0.24);
+    border: 0.75px solid #8DBF43;
+    color: #3F3F3F;
+    width: fit-content;
+    padding: 6px;
+    border-radius: 14px;
+    font-size: 12px;
+    margin-top: 33px;
+    margin-left: 22px;
+}
+
+/*
+ Copyright (C) 2022 Eunimart Omnichannel Pvt Ltd. (www.eunimart.com)
+ All rights reserved.
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/

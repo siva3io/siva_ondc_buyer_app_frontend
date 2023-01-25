@@ -1,0 +1,54 @@
+.bap_dashboard_goals_tags {
+  height: 15px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 15px;
+  color: #2e2e2e;
+  margin: 12px;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.bap_icon_dashboard_goals_icon1 {
+  margin: 12px;
+  font-size: 15px;
+  color: #72ab3a;
+}
+
+.bap_icon_dashboard_goals_icon2 {
+  margin: 12px;
+  font-size: 15px;
+  color: #416bff;
+}
+
+.bap_dashboard_goals_tags_container {
+  display: flex;
+}
+
+.bap_dashboard_pie_value {
+  font-size: 31px;
+  font-weight: 600;
+}
+
+.bap_AdminGraph {
+  font-family: "Inter";
+  text-align: center;
+}
+
+/*
+ Copyright (C) 2022 Eunimart Omnichannel Pvt Ltd. (www.eunimart.com)
+ All rights reserved.
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
